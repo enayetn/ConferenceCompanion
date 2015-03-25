@@ -1,0 +1,31 @@
+body {
+    padding-top: 70px;
+    height:100%;
+    text-transform:none;
+    /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+img#logo-img {
+    height:50px;
+    padding:10px;
+}
+
+div#take-img {
+    margin:10px;
+    border-style:dashed;
+    border-width:5px;
+    border-color:grey;
+    border-radius:15px;
+    height:30%;
+    cursor:pointer;
+}
+
+div#camera-icon {
+    font-size:3em;
+    padding:20px;
+}
+
+div#camera-text {
+    font-size:1.5em;
+    padding:5px;
+}
